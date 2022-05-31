@@ -1,9 +1,21 @@
 body {
+  width: 1250px;
+  margin: 0 auto;  
 }
 
-h3 {
-  color: steelblue;
-  border-bottom: 1px solid steelblue;
+div {
+  margin-right: 50px;
+}
+.conteudo {
+  display: flex;
+}
+
+.barra-lateral {
+  background-color: #FFF457;
+}
+
+.principal h3 {
+  background-color: #FFF457;
 }
 
 .cabecalho {
